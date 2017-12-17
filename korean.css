@@ -1,0 +1,28 @@
+h1 {
+  background: url(https://st2.depositphotos.com/4450295/6729/v/950/depositphotos_67293141-stock-illustration-hanging-christmas-cookies-background.jpg);
+  background-size: 300px 300px;
+  height: 150px;
+  font-size: 35pt;
+}
+
+body {
+  background-image: url(https://www.newhdwallpapers.in/wp-content/uploads/2015/10/Merry-Christmas-Red-Background-HD.jpg);
+}
+
+.article {
+  border: solid black;
+  margin: 0 auto;
+  width: 1000px;
+  font-size: 16px;
+  padding: 25px;
+  background-color: white;
+}
+
+h3 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  margin-top: 130px;
+
+}

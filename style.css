@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+  color: black;
+  background: url(https://st2.depositphotos.com/4450295/6729/v/950/depositphotos_67293141-stock-illustration-hanging-christmas-cookies-background.jpg);
+  background-size: 300px 300px;
+  height: 150px;
+}
+
+body {
+  background-image: url(https://www.newhdwallpapers.in/wp-content/uploads/2015/10/Merry-Christmas-Red-Background-HD.jpg)
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Shrikhand', cursive;
+  border: 10px solid  white;
+  border-style: double;
+  color: yellow;
+  padding: 10px;
+  background-image: url(merry-christmas-animations.gif);
+}
+
+h3 {
+  color: red;
+}
+
+.negara {
+  word-spacing: 280px;
+  text-align: center;
+}
+
+img{
+  width: 250px;
+  height: 150px;
+  transition-property: width, height;
+  transition-duration: 2s;
+}
+
+.gambar {
+  display: inline-block;
+  margin-left: 6%;
+  border: 30px none white;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+
+img:hover {
+  width: 300px;
+  height: 170px;
+}
+
+h4 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  margin-top: 130px;
+
+}
+
+.biodata {
+  text-align: center;
+  margin-top: 110px;
+}
+
+a {
+  text-decoration: none;
+}
